@@ -1,6 +1,6 @@
-# 🌐 Bidirectional Translation System
+# 🌐 Polyglot 01
 
-Welcome to the Bidirectional Translation System! This funky project uses the awesome power of the M5 Atom Echo, OpenAI GPT-4, and OpenAI Whisper to deliver seamless bidirectional translation. Speak into the M5 Atom Echo, and watch (or rather, listen) as your words get transcribed, translated, and spoken back in another language. All with a simple push of a button! 🎉
+Welcome to the Polyglot 01! This  project uses the awesome power of the M5 Atom Echo, OpenAI GPT-4, and OpenAI Whisper to deliver seamless bidirectional translation. Speak into the Polyglot 01, and watch (or rather, listen) as your words get transcribed, translated, and spoken back in another language. All with a simple push of a button! 🎉
 
 ## Features
 - 🎤 Speech Recognition: Leveraging OpenAI Whisper for top-notch transcription.
